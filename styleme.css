@@ -1,0 +1,46 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333333;
+    font-family: 'Arial Black', sans-serif;
+}
+
+h2 {
+    color: #555555;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+.moods {
+    display: flex;
+    justify-content: flex-start; /* Align items to the start */
+    align-items: flex-start;
+}
+
+.mood {
+    text-align: center;
+    margin-right: 10px; /* Adjust margin to reduce spacing */
+}
+
+.mood img {
+    max-width: 100%;
+    height: auto;
+}

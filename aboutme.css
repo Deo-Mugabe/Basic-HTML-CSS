@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: 'Arial Black', sans-serif;
+    color: #4CAF50;
+}
+
+p, ul, ol {
+    font-size: 1.2em;
+}
+
+a {
+    color: #1E90FF;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+ul, ol {
+    margin: 0;
+    padding-left: 20px;
+}
